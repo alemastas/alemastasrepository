@@ -1,3 +1,0 @@
-print ("hello, world")
-x = input(int('Введите целое простое число'))
-print (x)
